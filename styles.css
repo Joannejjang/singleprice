@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  text-align: left;
+  font-family: 'Karla', sans-serif;
+  font-size: 100%
+}
+
+h1 {
+  color: hsl(179, 62%, 43%);
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 2.1rem;
+  font-weight: 200;
+}
+
+footer {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.top-box {
+  padding: 70px 110px;
+}
+
+.headlime {
+  color: hsl(71, 73%, 54%);
+}
+
+.greyp {
+  color: hsl(218, 22%, 67%);
+}
+
+.bottom-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.two {
+  flex: 1;
+}
+
+.dkmint-box {
+  height: 400px;
+  width: auto;
+  background-color: hsl(179, 62%, 43%);
+  padding: 50px 110px 100px;
+}
+
+.ltmint-box {
+  height: 400px;
+  width: auto;
+  background-color: hsl(179, 62%, 60%);
+  padding: 50px 110px 100px;
+}
+
+.whttxt {
+  color: white;
+  font-weight: bold;
+}
+
+.dollar {
+  color: white;
+  font-size: 5rem;
+}
+
+.permonth {
+  color: hsl(179, 62%, 60%);
+}
+
+.whiteh3 {
+  color: white;
+  font-size: 2.2rem;
+}
+
+.whitep {
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 100;
+  line-height: 1.5;
+}
+
+.SignUp {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 8px;
+  line-height: 8px;
+  color: #FFFFFF;
+  font-family: 'Karla', sans-serif;
+  width: 426px;
+  font-size: 33px;
+  font-weight: 400;
+  padding: 40px;
+  background-color: #C0DF34;
+  box-shadow: 1px 1px 11px 0 #8E8E8D;
+  -webkit-box-shadow: 1px 1px 11px 0 #8E8E8D;
+  -moz-box-shadow: 1px 1px 11px 0 #8E8E8D;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
